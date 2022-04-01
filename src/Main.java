@@ -8,7 +8,7 @@ import java.io.ObjectOutputStream;
 import java.util.HashMap;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
+ 
 public class Main {
 
 	static HashMap<Integer, Contact> map = new HashMap<>();
